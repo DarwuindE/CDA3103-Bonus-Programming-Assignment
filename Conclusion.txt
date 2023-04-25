@@ -1,0 +1,4 @@
+By what is shown by the results of the program, hit rate increases as associativity increases.
+The fully associative cache had the highest number of hits, therefore having the highest hit rate.
+The two-way associative cache had the least number of hits, therefore having the lowest hit rate.
+Overall, the direct-mapped and fully associative caches had the highest hit rate among all four different types of caches.
